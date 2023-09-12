@@ -1,0 +1,115 @@
+Craft,Category,Item_ID,Item,Brand,Vendor,Location,Quantity,Unit_Cost,Min_Stock,Order_Alert
+painting,craft tools,CT_001,paintbrush-76mm,Artsmith,Michael's Craft Store,KallaxUpright_Drawer1,1,5.99,1,In-Stock
+painting,craft tools,CT_002,paintbrush-101mm,Artsmith,Michael's Craft Store,KallaxUpright_Drawer1,1,4.99,4,Need to Order
+painting,craft tools,CT_003,paintbrush-50mm,Artsmith,Michael's Craft Store,KallaxUpright_Drawer1,8,3.99,4,In-Stock
+painting,craft tools,CT_004,paintbrush-25mm,Artsmith,Michael's Craft Store,KallaxUpright_Drawer1,0,2.99,3,Need to Order
+crocheting,craft tools,CT_005,crochet hook-2mm,Clover,Joann Fabric,KallaxUpright_Bin1,1,3.99,5,Need to Order
+crocheting,craft tools,CT_006,crochet hook-2.25mm,Clover,Joann Fabric,KallaxUpright_Bin1,6,3.99,3,In-Stock
+crocheting,craft tools,CT_007,crochet hook-2.5mm,Clover,Joann Fabric,KallaxUpright_Bin1,9,3.99,2,In-Stock
+crocheting,craft tools,CT_008,crochet hook-2.75mm,Clover,Joann Fabric,KallaxUpright_Bin1,9,3.99,1,In-Stock
+crocheting,craft tools,CT_009,crochet hook-3mm,Clover,Joann Fabric,KallaxUpright_Bin1,1,3.99,1,In-Stock
+crocheting,craft tools,CT_010,crochet hook-3.25mm,Clover,Joann Fabric,KallaxUpright_Bin1,3,3.99,1,In-Stock
+crocheting,craft tools,CT_011,crochet hook-3.5mm,Clover,Joann Fabric,KallaxUpright_Bin1,1,3.99,1,In-Stock
+crocheting,craft tools,CT_012,crochet hook-3.75mm,Clover,Joann Fabric,KallaxUpright_Bin1,9,3.99,3,In-Stock
+crocheting,craft tools,CT_013,crochet hook-4mm,Clover,Joann Fabric,KallaxUpright_Bin1,4,3.99,1,In-Stock
+crocheting,craft tools,CT_014,crochet hook-4.25mm,Clover,Joann Fabric,KallaxUpright_Bin1,9,3.99,4,In-Stock
+crocheting,craft tools,CT_015,crochet hook-4.5mm,Clover,Joann Fabric,KallaxUpright_Bin1,2,3.99,4,Need to Order
+crocheting,craft tools,CT_016,crochet hook-4.75mm,Clover,Joann Fabric,KallaxUpright_Bin1,5,3.99,4,In-Stock
+crocheting,craft tools,CT_017,crochet hook-5mm,Clover,Joann Fabric,KallaxUpright_Bin1,5,3.99,5,In-Stock
+crocheting,craft tools,CT_018,crochet hook-5.5mm,Clover,Joann Fabric,KallaxUpright_Bin1,7,3.99,3,In-Stock
+crocheting,craft tools,CT_019,crochet hook-6mm,Clover,Joann Fabric,KallaxUpright_Bin1,9,4.99,1,In-Stock
+crocheting,craft tools,CT_020,crochet hook-7mm,Clover,Joann Fabric,KallaxUpright_Bin1,4,4.99,1,In-Stock
+crocheting,craft tools,CT_021,crochet hook-7.5mm,Clover,Joann Fabric,KallaxUpright_Bin1,2,4.99,4,Need to Order
+crocheting,craft tools,CT_022,crochet hook-8mm,Clover,Joann Fabric,KallaxUpright_Bin1,7,5.99,2,In-Stock
+crocheting,craft tools,CT_023,crochet hook-9mm,Clover,Joann Fabric,KallaxUpright_Bin1,8,5.99,5,In-Stock
+crocheting,craft tools,CT_024,crochet hook-10mm,Clover,Joann Fabric,KallaxUpright_Bin1,9,6.99,2,In-Stock
+crocheting,craft tools,CT_025,crochet hook-12mm,Clover,Joann Fabric,KallaxUpright_Bin1,7,6.99,5,In-Stock
+crocheting,craft tools,CT_026,crochet hook-15mm,Clover,Joann Fabric,KallaxUpright_Bin1,8,6.99,4,In-Stock
+crocheting,craft tools,CT_027,crochet hook-16mm,Clover,Joann Fabric,KallaxUpright_Bin1,6,6.99,1,In-Stock
+crocheting,craft tools,CT_028,crochet hook-19mm,Clover,Joann Fabric,KallaxUpright_Bin1,1,7.99,4,Need to Order
+crocheting,craft tools,CT_029,crochet hook-25mm,Clover,Joann Fabric,KallaxUpright_Bin1,4,7.99,4,In-Stock
+crocheting,craft tools,CT_030,stitch needle clip_6pack,Clover,Joann Fabric,KallaxUpright_Bin1,9,6.49,3,In-Stock
+cricuting,craft tools,CT_031,scissors-64mm,Fiskars,Joann Fabric,PegBoard,10,3.99,2,In-Stock
+cricuting,craft tools,CT_032,cricut tool-2mm,Cruicut,Amazon,PegBoard,5,1.99,2,In-Stock
+cricuting,craft tools,CT_033,cricut tool-3mm,Cruicut,Amazon,PegBoard,3,1.99,2,In-Stock
+cricuting,craft tools,CT_034,cricut tool-4mm,Cruicut,Amazon,PegBoard,2,1.99,1,In-Stock
+cricuting,craft tools,CT_035,cricut tool-5mm,Cruicut,Amazon,PegBoard,6,1.99,4,In-Stock
+cricuting,craft tools,CT_036,cricut tool-6mm,Cruicut,Amazon,PegBoard,2,1.99,4,Need to Order
+cricuting,craft tools,CT_037,cricut tool-7mm,Cruicut,Amazon,PegBoard,9,1.99,5,In-Stock
+painting,paint,PT_001,paint_acrylic_Americana_ blue-3.1,Americana,Michael's Craft Store,KallaxUpright_Drawer1,9,3.99,2,In-Stock
+painting,paint,PT_002,paint_acrylic_Americana_ red-3.1,Americana,Michael's Craft Store,KallaxUpright_Drawer1,1,3.99,1,In-Stock
+painting,paint,PT_003,paint_acrylic_Americana_ yellow-3.1,Americana,Michael's Craft Store,KallaxUpright_Drawer1,10,3.99,4,In-Stock
+painting,paint,PT_004,paint_acrylic_Americana_ purple-3.1,Americana,Michael's Craft Store,KallaxUpright_Drawer1,6,3.99,2,In-Stock
+painting,paint,PT_005,paint_acrylic_Americana_ red-3.1,Americana,Michael's Craft Store,KallaxUpright_Drawer1,7,3.99,2,In-Stock
+painting,paint,PT_006,paint_acrylic_Americana_ white-3.1,Americana,Michael's Craft Store,KallaxUpright_Drawer1,0,3.99,4,Need to Order
+painting,paint,PT_007,paint_acrylic_Americana_ green-3.1,Americana,Michael's Craft Store,KallaxUpright_Drawer1,10,3.99,5,In-Stock
+painting,paint,PT_008,paint_acrylic_Americana_ light blue-3.1,Americana,Michael's Craft Store,KallaxUpright_Drawer1,8,3.99,4,In-Stock
+painting,paint,PT_009,paint_acrylic_Ceramcoat_ light green-2.7,Ceramcoat,Michael's Craft Store,KallaxUpright_Drawer1,8,3.5,5,In-Stock
+painting,paint,PT_010,paint_acrylic_Ceramcoat_ orange-2.7,Ceramcoat,Michael's Craft Store,KallaxUpright_Drawer1,2,3.5,3,Need to Order
+painting,paint,PT_011,paint_acrylic_Ceramcoat_ baby blue-2.7,Ceramcoat,Michael's Craft Store,KallaxUpright_Drawer1,1,3.5,1,In-Stock
+painting,paint,PT_012,paint_acrylic_Artsmith_ black-4.2,Artsmith,Michael's Craft Store,KallaxUpright_Drawer1,5,7.99,4,In-Stock
+painting,paint,PT_013,paint_acrylic_Artsmith_ white-4.2,Artsmith,Michael's Craft Store,KallaxUpright_Drawer1,6,7.99,3,In-Stock
+painting,paint,PT_014,paint_acrylic_Artsmith_ blue-4.2,Artsmith,Michael's Craft Store,KallaxUpright_Drawer1,0,7.99,1,Need to Order
+painting,paint,PT_015,paint_watercolor_Artsmith_ blue-5,Artsmith,Michael's Craft Store,KallaxUpright_Drawer1,6,2.99,1,In-Stock
+painting,paint,PT_016,paint_watercolor_Artsmith_ red-5,Artsmith,Michael's Craft Store,KallaxUpright_Drawer1,7,2.99,2,In-Stock
+painting,paint,PT_017,paint_watercolor_Artsmith_ yellow-5,Artsmith,Michael's Craft Store,KallaxUpright_Drawer1,9,2.99,5,In-Stock
+painting,paint,PT_018,paint_watercolor_Artsmith_ purple-5,Artsmith,Michael's Craft Store,KallaxUpright_Drawer1,6,2.99,4,In-Stock
+painting,paint,PT_019,paint_watercolor_Artsmith_ red-5,Artsmith,Michael's Craft Store,KallaxUpright_Drawer1,8,2.99,4,In-Stock
+painting,paint,PT_020,paint_watercolor_Windor & Newton_ pink-5,Windor & Newton,Michael's Craft Store,KallaxUpright_Drawer1,9,2.99,3,In-Stock
+painting,paint,PT_021,paint_watercolor_Windor & Newton_ blue-5,Windor & Newton,Michael's Craft Store,KallaxUpright_Drawer1,8,2.99,4,In-Stock
+painting,paint,PT_022,paint_watercolor_Windor & Newton_ gray-5,Windor & Newton,Michael's Craft Store,KallaxUpright_Drawer1,10,2.99,1,In-Stock
+painting,paint,PT_023,paint_watercolor_Windor & Newton_ black-5,Windor & Newton,Michael's Craft Store,KallaxUpright_Drawer1,3,2.99,4,Need to Order
+painting,paint,PT_024,paint_watercolor_Windor & Newton_ white-5,Windor & Newton,Michael's Craft Store,KallaxUpright_Drawer1,3,2.99,4,Need to Order
+painting,paint,PT_025,paint_oil_Royal & Langnickel_ green-12,Royal & Langnickel,Hobby Lobby,KallaxUpright_Drawer1,7,11.99,1,In-Stock
+painting,paint,PT_026,paint_oil_Royal & Langnickel_ yellow-12,Royal & Langnickel,Hobby Lobby,KallaxUpright_Drawer1,3,11.99,1,In-Stock
+painting,paint,PT_027,paint_oil_Royal & Langnickel_ pink-12,Royal & Langnickel,Hobby Lobby,KallaxUpright_Drawer1,10,11.99,3,In-Stock
+painting,paint,PT_028,paint_oil_Royal & Langnickel_ red-12,Royal & Langnickel,Hobby Lobby,KallaxUpright_Drawer1,0,11.99,3,Need to Order
+painting,paint,PT_029,paint_oil_Royal & Langnickel_ orange-12,Royal & Langnickel,Hobby Lobby,KallaxUpright_Drawer1,3,11.99,3,In-Stock
+painting,paint,PT_030,paint_oil_Royal & Langnickel_ green-12,Royal & Langnickel,Hobby Lobby,KallaxUpright_Drawer1,5,11.99,1,In-Stock
+painting,paint,PT_031,paint_oil_Royal & Langnickel_ gray-12,Royal & Langnickel,Hobby Lobby,KallaxUpright_Drawer1,10,11.99,1,In-Stock
+crocheting,yarn,YR_001,yarn_Woobles Easy Peasy_blue-219yds,Woobles Easy Peasy,Amazon,KallaxUpright_Bin1,9,14.99,3,In-Stock
+crocheting,yarn,YR_002,yarn_Woobles Easy Peasy_white-219yds,Woobles Easy Peasy,Amazon,KallaxUpright_Bin1,10,14.99,5,In-Stock
+crocheting,yarn,YR_003,yarn_Woobles Easy Peasy_red-219yds,Woobles Easy Peasy,Amazon,KallaxUpright_Bin1,0,14.99,5,Need to Order
+crocheting,yarn,YR_004,yarn_Woobles Easy Peasy_green-219yds,Woobles Easy Peasy,Amazon,KallaxUpright_Bin1,0,14.99,2,Need to Order
+crocheting,yarn,YR_005,yarn_Woobles Easy Peasy_yellow-219yds,Woobles Easy Peasy,Amazon,KallaxUpright_Bin1,4,14.99,5,Need to Order
+crocheting,yarn,YR_006,yarn_Woobles Easy Peasy_orange-219yds,Woobles Easy Peasy,Amazon,KallaxUpright_Bin1,0,14.99,2,Need to Order
+crocheting,yarn,YR_007,yarn_Woobles Easy Peasy_purple-219yds,Woobles Easy Peasy,Amazon,KallaxUpright_Bin1,10,14.99,5,In-Stock
+crocheting,yarn,YR_008,yarn_Woobles Easy Peasy_pink-219yds,Woobles Easy Peasy,Amazon,KallaxUpright_Bin1,0,14.99,1,Need to Order
+crocheting,yarn,YR_009,yarn_Woobles Easy Peasy_black-219yds,Woobles Easy Peasy,Amazon,KallaxUpright_Bin1,4,14.99,3,In-Stock
+crocheting,yarn,YR_010,yarn_Woobles Easy Peasy_gray-219yds,Woobles Easy Peasy,Amazon,KallaxUpright_Bin1,10,14.99,3,In-Stock
+crocheting,yarn,YR_011,yarn_Woobles Easy Peasy_maroon-219yds,Woobles Easy Peasy,Amazon,KallaxUpright_Bin1,2,14.99,2,In-Stock
+crocheting,yarn,YR_012,yarn_Woobles Easy Peasy_light blue-219yds,Woobles Easy Peasy,Amazon,KallaxUpright_Bin1,2,14.99,5,Need to Order
+crocheting,yarn,YR_013,yarn_Woobles Easy Peasy_light green-219yds,Woobles Easy Peasy,Amazon,KallaxUpright_Bin1,9,14.99,1,In-Stock
+crocheting,yarn,YR_014,yarn_Woobles Easy Peasy_light purple-219yds,Woobles Easy Peasy,Amazon,KallaxUpright_Bin1,10,14.99,1,In-Stock
+crocheting,yarn,YR_015,yarn_Mainstays_red-200yds,Mainstays,Walmart,KallaxUpright_Bin1,7,2.99,5,In-Stock
+crocheting,yarn,YR_016,yarn_Mainstays_blue-200yds,Mainstays,Walmart,KallaxUpright_Bin1,4,2.99,2,In-Stock
+crocheting,yarn,YR_017,yarn_Bernat _blue-170yds,Bernat ,JoAnn Fabric,KallaxUpright_Bin1,3,19.99,5,Need to Order
+crocheting,yarn,YR_018,yarn_Bernat _light blue-170yds,Bernat ,JoAnn Fabric,KallaxUpright_Bin1,10,19.99,2,In-Stock
+crocheting,yarn,YR_019,yarn_Bernat _dark blue-170yds,Bernat ,JoAnn Fabric,KallaxUpright_Bin1,10,19.99,2,In-Stock
+cricuting,vinyl,VY_001,vinyl_JIblanks_blue-12x12,JIblanks,JIblanks,RollingCart_Drawer3,6,1.99,5,In-Stock
+cricuting,vinyl,VY_002,vinyl_JIblanks_red-12x12,JIblanks,JIblanks,RollingCart_Drawer3,1,1.99,4,Need to Order
+cricuting,vinyl,VY_003,vinyl_JIblanks_yellow-12x12,JIblanks,JIblanks,RollingCart_Drawer3,5,1.99,1,In-Stock
+cricuting,vinyl,VY_004,vinyl_JIblanks_purple-12x12,JIblanks,JIblanks,RollingCart_Drawer3,1,1.99,1,In-Stock
+cricuting,vinyl,VY_005,vinyl_JIblanks_red-12x12,JIblanks,JIblanks,RollingCart_Drawer3,3,1.99,5,Need to Order
+cricuting,vinyl,VY_006,vinyl_JIblanks_white-12x12,JIblanks,JIblanks,RollingCart_Drawer3,8,1.99,4,In-Stock
+cricuting,vinyl,VY_007,vinyl_JIblanks_green-12x12,JIblanks,JIblanks,RollingCart_Drawer3,0,1.99,2,Need to Order
+cricuting,vinyl,VY_008,vinyl_JIblanks_light blue-12x12,JIblanks,JIblanks,RollingCart_Drawer3,3,1.99,3,In-Stock
+cricuting,vinyl,VY_009,vinyl_JIblanks_light green-12x12,JIblanks,JIblanks,RollingCart_Drawer3,2,1.99,3,Need to Order
+cricuting,vinyl,VY_010,vinyl_JIblanks_orange-12x12,JIblanks,JIblanks,RollingCart_Drawer3,8,1.99,5,In-Stock
+cricuting,vinyl,VY_011,vinyl_JIblanks_baby blue-12x12,JIblanks,JIblanks,RollingCart_Drawer3,2,1.99,2,In-Stock
+cricuting,vinyl,VY_012,vinyl_cricut_blue-12x12,Cruicut,JoAnn Fabric,RollingCart_Drawer4,7,1.99,5,In-Stock
+cricuting,vinyl,VY_013,vinyl_cricut_red-12x12,Cruicut,JoAnn Fabric,RollingCart_Drawer4,3,1.99,3,In-Stock
+cricuting,vinyl,VY_014,vinyl_cricut_yellow-12x12,Cruicut,JoAnn Fabric,RollingCart_Drawer4,10,1.99,1,In-Stock
+cricuting,vinyl,VY_015,vinyl_cricut_purple-12x12,Cruicut,JoAnn Fabric,RollingCart_Drawer4,3,1.99,5,Need to Order
+cricuting,vinyl,VY_016,vinyl_cricut_red-12x12,Cruicut,JoAnn Fabric,RollingCart_Drawer4,8,1.99,4,In-Stock
+cricuting,vinyl,VY_017,vinyl_cricut_white-12x12,Cruicut,JoAnn Fabric,RollingCart_Drawer4,3,1.99,2,In-Stock
+cricuting,vinyl,VY_018,vinyl_cricut_green-12x12,Cruicut,JoAnn Fabric,RollingCart_Drawer4,7,1.99,3,In-Stock
+cricuting,vinyl,VY_019,vinyl_cricut_light blue-12x12,Cruicut,JoAnn Fabric,RollingCart_Drawer4,3,1.99,5,Need to Order
+cricuting,vinyl,VY_020,vinyl_cricut_light green-12x12,Cruicut,JoAnn Fabric,RollingCart_Drawer4,9,1.99,4,In-Stock
+cricuting,vinyl,VY_021,vinyl_cricut_orange-12x12,Cruicut,JoAnn Fabric,RollingCart_Drawer4,9,1.99,2,In-Stock
+cricuting,vinyl,VY_022,vinyl_JIblanks_blue-144x144,JIblanks,JIblanks,RollingCart_Drawer5,7,19.99,1,In-Stock
+cricuting,vinyl,VY_023,vinyl_JIblanks_black-144x144,JIblanks,JIblanks,RollingCart_Drawer5,8,19.99,4,In-Stock
+cricuting,vinyl,VY_024,vinyl_JIblanks_white-144x144,JIblanks,JIblanks,RollingCart_Drawer5,2,19.99,1,In-Stock
+cricuting,vinyl,VY_025,vinyl_JIblanks_green-144x144,JIblanks,JIblanks,RollingCart_Drawer5,6,19.99,3,In-Stock
+cricuting,vinyl,VY_026,vinyl_JIblanks_yellow-144x144,JIblanks,JIblanks,RollingCart_Drawer5,0,19.99,5,Need to Order
+cricuting,vinyl,VY_027,vinyl_JIblanks_pink-144x144,JIblanks,JIblanks,RollingCart_Drawer5,2,19.99,2,In-Stock
